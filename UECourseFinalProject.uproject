@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{226B5240-4C87-B464-42C8-0AB8DD4C1DD7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UECourseFinalProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG",
+				"Core",
+				"CoreUObject",
+				"InputCore",
+				"HeadMountedDisplay",
+				"Niagara",
+				"PhysicsCore",
+				"NavigationSystem"
+			]
+		}
+	]
+}
